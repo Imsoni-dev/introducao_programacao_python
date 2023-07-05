@@ -1,0 +1,3 @@
+# Introdução a programaçaõ com Python
+Segue uma série de exercícios do Livro "Introdução a Programação com Python" por Nilo Ney Coutinho Menezes. Proponho-me a fazer os exercícios contidos no livro como forma de práticar os conceitos de lógica de programação e ao mesmo tempo aprendizado da linguagem de programação Python. Os conceitos será de grande utilidade aos iniciantes, conceitos que vão desde variáveis até classes, com toque especial de SQLite como cereja do bolo.
+Os conceitos apresentados serão: -Variáveis -Condições -Repetições -Lista, dicionário, tuplas e conjuntos -Strings -Funções -Arquivos -Classes e Objetos
